@@ -1,1 +1,3 @@
 hello from master3
+
+The master3 file is a good file
